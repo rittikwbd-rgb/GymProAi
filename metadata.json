@@ -1,0 +1,6 @@
+{
+  "name": "FitOps AI",
+  "description": "Commercial-grade AI-powered Gym & SaaS Management Platform with real-time analytics, member CRM, PT session logging, AI diet/workout planner, and offline sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
